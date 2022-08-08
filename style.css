@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(56, 63, 93);
+    padding: 10px
+}
+
+a:hover{
+    background-color: rgb(109, 120, 168);
+}
+
+#a{
+    background-color: rgb(109, 120, 168);
+}
